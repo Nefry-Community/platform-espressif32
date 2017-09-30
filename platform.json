@@ -1,16 +1,16 @@
 {
-  "name": "espressif32_stage",
-  "title": "Espressif 32 (Stage)",
+  "name": "espressif32_stage Add Nefry",
+  "title": "Espressif 32 (Stage) Add Nefry",
   "description": "Espressif Systems is a privately held fabless semiconductor company. They provide wireless communications and Wi-Fi chips which are widely used in mobile devices and the Internet of Things applications.",
   "url": "https://espressif.com/",
-  "homepage": "http://platformio.org/platforms/espressif32",
+  "homepage": "https://github.com/Nefry-Community/platform-espressif32",
   "license": "Apache-2.0",
   "engines": {
     "platformio": ">=3.3.0-a.7"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-espressif32.git"
+    "url": "https://github.com/Nefry-Community/platform-espressif32.git"
   },
   "version": "0.11.0-alpha.2",
   "packageRepositories": [
@@ -45,7 +45,7 @@
     "framework-arduinoespressif32": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/espressif/arduino-esp32.git"
+      "version": "https://github.com/Nefry-Community/arduino-esp32.git"
     },
     "framework-espidf": {
       "type": "framework",
